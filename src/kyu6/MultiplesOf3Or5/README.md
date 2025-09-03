@@ -7,3 +7,5 @@ Additionally, if the number is negative, return 0.
 **Note:** If a number is a multiple of both 3 and 5, only count it once.
 
 **Courtesy of projecteuler.net** (https://projecteuler.net/problem=1)
+
+> **[View Kata on Codewars](https://www.codewars.com/kata/514b92a657cdc65150000006/train/java)**

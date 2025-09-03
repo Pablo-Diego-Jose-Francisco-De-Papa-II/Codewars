@@ -13,3 +13,5 @@ Implement the function which takes an array containing the names of people that 
 > ["Alex", "Jacob", "Mark", "Max"]  -->  "Alex, Jacob and 2 others like this"
 
 Note: For 4 or more names, the number in "and 2 others" simply increases.
+
+> **[View Kata on Codewars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)**

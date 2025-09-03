@@ -1,4 +1,4 @@
-package kyu7.WhoLikesIt;
+package kyu6.WhoLikesIt;
 
 class Solution {
 

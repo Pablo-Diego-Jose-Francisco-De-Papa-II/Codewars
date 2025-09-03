@@ -7,3 +7,5 @@ Examples:
 > "This is a test        --> "This is a test"
 > 
 > "This is another test" --> "This is rehtona test"
+
+> **[View Kata on Codewars](https://www.codewars.com/kata/5264d2b162488dc400000001/train/java)**
