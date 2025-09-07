@@ -8,7 +8,6 @@ You can check out my profile and progress here:
 👉 [Pablo-Diego-Jose-Francisco-De-Papa-II](https://www.codewars.com/users/Pablo-Diego-Jose-Francisco-De-Papa-II)
 
 ## Repository Structure
-- All solutions are written in **Java**.
 - The source code is located inside the `src/` directory.
 - Within `src/`, solutions are grouped by **kata difficulty** (e.g., `8kyu`, `7kyu`, etc.).
 - Each difficulty folder contains the corresponding challenge solutions.
