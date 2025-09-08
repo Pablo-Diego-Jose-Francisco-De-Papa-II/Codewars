@@ -38,7 +38,12 @@ public class StripComments {
             if (c == '\0') continue;
 
             result.append(c);
+        }
 
+        int len = result.length();
+        while (len > 0 && (result.charAt(len - 1) == ' ' || result.charAt(len - 1) == '\0')) {
+            result.deleteCharAt(len - 1);
+            len--;
         }
 
         return result.toString();
